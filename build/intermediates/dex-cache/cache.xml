@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_872af5be26c61eb7ed904ad2e515d05acd9dfa45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e2aacb855f51cd768e9ff9378daa9129e49f8dd">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5735cc8924085799fe58ac0f59553eced5c3e7ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_c52b84f98e856198241c114deb3a2e3264025f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_d2a371f0305f5b1a53ed360dffeced0668f9c9c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_f1f2d245e1393aa7f92d7556b91c07aab573963e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ecd453e9c38a5d869018676b1b1d3d5c5e16183e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9ff5af940d03e127e34867cd6dbf373974abfa00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_ae6780accfd317635fd3a45a82ad723f8cee4259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_199b05b2fcc5f3f13a3c8043f81079c0821046d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ec4ca46ef4fa959f4d3688800a78005d88521eca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_d01ef263c4a59d83c07070866a8481e565ebc06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_a6d5fa7440848b2f2a165b4c4c1a13e03a4fcdc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_56355980b484d54c89ee5e65a4be4890cac5c9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dd4b668bf0a9c921dd40fc86fce326f3df6cbf8">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0c0ecfd74c69689a2a82c7943723cc1e9de43866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_eda3bf7c64f41f065625f6bce69063f3e1dfd0c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_cccd1788836882b9ca8e27ca35c805e0476c4c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/dinesh/GitHubRepo/ultrasensewifi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_271bfad6919a59f8900eb463b5852c7007402303/classes.dex" />
+    </item>
+
+</items>
